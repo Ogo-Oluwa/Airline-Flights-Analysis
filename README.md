@@ -67,4 +67,7 @@ ORDER BY Frequency DESC
 ### Pivot Tables
 <img width="860" height="401" alt="pivot_Tables" src="https://github.com/user-attachments/assets/4bdda40c-4c3a-40f5-aa7e-84f56fd90235" />
 
+### PowerBI Dashboard
+
+
 
