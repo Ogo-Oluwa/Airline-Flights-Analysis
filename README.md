@@ -22,8 +22,6 @@ First Three Records
 
 | Index | airline | flights | source_city | departure_time | stops | arrival_time | destination_city | class | duration | days_left | price |
 |-----|-----|-----|------|-----|-----|-----|------|-----|-----|------|-----|          
-
-
 | 0 |	SpiceJet | SG-8709 |	Delhi |	Evening	| zero	| Night	| Mumbai | Economy	| 2.17	| 1 |	5953 |
 | 1 | SpiceJet | SG-8157 |	Delhi |	Early_Morning |	zero |	Morning |	Mumbai | Economy |	2.33 |	1 |	5953 |
 | 2 |	AirAsia |	I5-764 |	Delhi |	Early_Morning |	zero |	Early_Morning | Mumbai |	Economy |	2.17 |	1  |	5956 |
