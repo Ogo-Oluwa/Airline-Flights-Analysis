@@ -27,5 +27,42 @@ First Three Records
 | 2 |	AirAsia |	I5-764 |	Delhi |	Early_Morning |	zero |	Early_Morning | Mumbai |	Economy |	2.17 |	1  |	5956 |
 | 3 |	Vistara |	UK-995 |	Delhi |	Morning |	zero |	Afternoon | Mumbai |	Economy |	2.25 |	1 |	5955 |
 
+## Query Language: (SQL)
+Some of the query language to retrieve records are displayed here
+```SQL
+---Retrieve airlines_flights_data Dataset
+SELECT * FROM airlines_flights_data;
+
+```
+```SQL
+---Retrieve number of airlines available
+SELECT COUNT (DISTINCT airline) AS 'No_Available_Airline' FROM airlines_flights_data;
+
+```
+```SQL
+--- Retrieve the most patronized arline
+
+SELECT airline, COUNT (airline) AS 'Total' FROM airlines_flights_data
+GROUP BY airline
+ORDER BY Total DESC
+;
+
+```
+```SQL
+--- Retrieve most frequent departure time
+SELECT departure_time, COUNT (departure_time) AS 'Frequency' FROM airlines_flights_data
+GROUP BY departure_time
+ORDER BY Frequency DESC;
+
+```
+```SQL
+---- Retrieve most frequent Arrival time 
+SELECT arrival_time,  COUNT(arrival_time) AS 'Frequency' FROM airlines_flights_data
+GROUP BY arrival_time
+ORDER BY Frequency DESC
+; 
+
+```
+
 
 
