@@ -69,7 +69,8 @@ ORDER BY Frequency DESC
 
 
 ### PowerBI Dashboard
-<img width="876" height="501" alt="Airline_PowerBI" src="https://github.com/user-attachments/assets/9effe735-f015-4e76-b8e5-84e3bc34c445" />
+<img width="930" height="526" alt="Airline_PBI_Png" src="https://github.com/user-attachments/assets/2840b58f-2078-4789-9bfe-6d8986b7b116" />
+
 
 #### Here is the link to my LinkedIn profile:
 https://www.linkedin.com/in/ogo-oluwa-adeyemo/
