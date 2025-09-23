@@ -67,6 +67,9 @@ ORDER BY Frequency DESC
 ### Pivot Tables
 <img width="860" height="401" alt="pivot_Tables" src="https://github.com/user-attachments/assets/4bdda40c-4c3a-40f5-aa7e-84f56fd90235" />
 
+
+Here is the link to my LinkedIn profile:
+
 ### PowerBI Dashboard
 <img width="876" height="501" alt="Airline_PowerBI" src="https://github.com/user-attachments/assets/9effe735-f015-4e76-b8e5-84e3bc34c445" />
 
